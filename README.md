@@ -7,7 +7,8 @@ boylarından boy-ağırlık ilişkisiyle (W = a·L^b) kafesteki toplam biyokütl
 
 Veriler sunucuya gitmez, yalnızca kullanıcının tarayıcısında (LocalStorage) saklanır.
 
-**Canlı sürüm:** _(yayından sonra eklenecek)_
+**Canlı sürüm:** https://kafes-defteri.netlify.app/  
+**Kaynak kod:** https://github.com/Onder-MuratCan/kafes-defteri
 
 ![Kafes Defteri günlük ekranı](docs/kafes-defteri-gunluk.png)
 
